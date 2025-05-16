@@ -2,27 +2,25 @@
 
 ## Group Members:
 
-names here.(CHANGE THIS!!!!!)
+Daniel Chen and Stella Yampolsky
        
 # Intentions:
 
-A statement of the problem you are solving and/or a high level description of the project. (CHANGE THIS!!!!!)
+We are going to demonstrate the Hill Cipher and the Columnar Cipher. These are two physical encryption methods.  
     
 # Intended usage:
 
-A description as to how the project will be used (describe the user interface). (CHANGE THIS!!!!!)
+This project will allow people to automatically encode and decode plaintext and ciphertext using the Hill and Columnar ciphers.
   
 # Technical Details:
-
-(CHANGE THIS!!!!!)
-
-A description of your technical design. This should include: 
-   
-How you will be using the topics covered in class in the project.
      
-How you are breaking down the project and who is responsible for which parts.
-  
+Stella will be doing the Hill Cipher. Daniel will do the Columnar cipher. We will do a code demo and a demo without a computer. Since these topics were not covered in class, we won't be using topics such as enumeration or privilege escalation. 
+We will be including a decode and encode for both ciphers.   
     
 # Intended pacing:
 
-A timeline with expected completion dates of parts of the project. (CHANGE THIS!!!!!)
+By May 20, research everything about the Hill and Columnar Cipher, including its history and methodology.
+By May 22, piece together the slides for Hill and Columnar Cipher using Google Slides. 
+By May 27, we have working encode and decode for both Ciphers.
+By May 30, physical demo, code demo, and presentation. 
+By May 31st, we record and edit the video.
