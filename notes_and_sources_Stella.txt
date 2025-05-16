@@ -1,0 +1,21 @@
+Hill ciper
+- Invented by Lester S. Hill
+- Polygraphic substitution cipher
+	- different from polyalphabetic/monoalphabetic ciphers
+	- Uniform substitution is performed on blocks of letters, like the playfair cipher.
+- "practical" to operate on more than 3 symbols at once. 
+- Uses matrices (I need to learn some math)
+- Each block is represented as a matrix (letters are 0-25)
+- Encryption: Each block of n letters is multiplied by an nXn matrix against mod 26.
+- Decryption: multiply by the inverse of the key matrix mod 26
+- Important! Not all matricies have an inverse!! Therefore, the determinant must be nonzero and not divisible by 2 or 13
+- add reasoning
+- Variant has 3 extra symbols
+
+
+
+
+
+
+
+
