@@ -9,3 +9,7 @@ Approximately 15 minutes was spent on this, which included cloning the repo onto
 
 ### 2025-5-16 - Setup the Proposal
 Approximately 20 minutes was spent finalizing project ideas (what type of ciphers to do), timelines, and the structure of the project.
+
+### 2025-5-17 - Researching
+Approximately 40 minutes was spend researching the Columnar Transposition cipher and fixing up some stuff in the repo.
+
