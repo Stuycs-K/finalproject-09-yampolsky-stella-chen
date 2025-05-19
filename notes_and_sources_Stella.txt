@@ -9,8 +9,13 @@ Hill ciper
 - Encryption: Each block of n letters is multiplied by an nXn matrix against mod 26.
 - Decryption: multiply by the inverse of the key matrix mod 26
 - Important! Not all matricies have an inverse!! Therefore, the determinant must be nonzero and not divisible by 2 or 13
+- The risk of the determinant having common factors with the modulus can be eliminated by making the modulus prime
 - add reasoning
-- Variant has 3 extra symbols
+- Variant has 3 extra symbols (use this one?), makes modulus 29
+- Linear, if you have encrypted and decrypted text you can crack it.
+- Can be more effective when combined with non linear operations
+- Key space: set of all possible keys
+- Key space size: number of possible keys
 
 
 
