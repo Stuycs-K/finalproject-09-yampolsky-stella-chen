@@ -16,6 +16,7 @@ Hill ciper
 - Can be more effective when combined with non linear operations
 - Key space: set of all possible keys
 - Key space size: number of possible keys
+- Harder when you increase dimensions, at dimension 2 it's weaker than playfair
 
 
 
