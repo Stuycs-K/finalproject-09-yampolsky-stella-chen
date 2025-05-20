@@ -13,3 +13,6 @@ Approximately 20 minutes was spent finalizing project ideas (what type of cipher
 ### 2025-5-17 - Researching
 Approximately 40 minutes was spend researching the Columnar Transposition cipher and fixing up some stuff in the repo.
 
+### 2025-5-20 - Making Encode Columnar Cipher
+Approximately 40 minutes was spent configuring the makefile and working on the Columnar Transposition Cipher, and ended on how to print out the columns from a 2D array.
+
