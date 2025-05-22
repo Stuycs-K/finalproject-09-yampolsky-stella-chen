@@ -10,6 +10,9 @@ Research Hill cipher
 ### 2025-05-19 - Research
 Research Hill cipher
 
-### 2025-05-19 - ???math???
+### 2025-05-20 - ???math???
 attempt to teach self matrix math, get notes from Julian
+
+### 2025-5-20 more math
+more math learning
 
