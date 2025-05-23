@@ -15,6 +15,9 @@ attempt to teach self matrix math, get notes from Julian
 
 ### 2025-5-20 more math
 more math learning
+21 math
 
-### 2025
+### 2025 22 slides
 slides
+
+23 more slides and inverse notes for demo
