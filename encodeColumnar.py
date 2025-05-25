@@ -2,6 +2,12 @@ import sys
 
 def column(plaintext, keyword):
     plaintext = plaintext.replace(" ", "")
+    plaintext = plaintext.replace(",","")
+    plaintext = plaintext.replace(".","")
+    plaintext = plaintext.replace("?","")
+    plaintext = plaintext.replace("!","")
+    plaintext = plaintext.replace("(","")
+    plaintext = plaintext.replace(")","")
     i = 0
     ciphertext = []
     while i < len(plaintext):
@@ -11,7 +17,7 @@ def column(plaintext, keyword):
                 cipher.append(plaintext[i])
                 i+=1
             else:
-                break
+                cipher.append("x")
         ciphertext.append(cipher)
     return ciphertext
 
@@ -26,5 +32,20 @@ def columnPrint(doubleArray):
         string+="\n"
     print(string)
 
+def swap(doubleArray, keyword):
+    cipher = []
+    keywordSorted = sorted(list(keyword))
+    keyword = list(keyword)
+    for i in range(0, len(doubleArray)):
+        cipher.append([])
+    for i in keywordSorted:
+        index = keyword.index(i)
+        for j in range(0, len(doubleArray)):
+            cipher[j].append(doubleArray[j][index])
+    return cipher
+
 if __name__ == "__main__":
     columnPrint(column(sys.argv[1], sys.argv[2]))
+    print("\n")
+    columnPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
+
