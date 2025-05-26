@@ -1,4 +1,5 @@
 import numpy as np
+import sys
 
 def modInverse(a, m):
     for i in range(1, m):
@@ -23,7 +24,7 @@ def numsToText(nums):
 def decrypt(text, key):
     invKey = matrixModInverse(key, 26)
     if invKey is None:
-        return None
+        return ""
     nums = textToNums(text)
     result = []
     for i in range(0, len(nums), 2):
@@ -32,4 +33,8 @@ def decrypt(text, key):
         result.extend(dec.flatten())
     return numsToText(result)
 
-
+if __name__ == "__main__":
+    text = sys.argv[1]
+    keyValues = list(map(int, sys.argv[2].split(',')))
+    key = np.array(keyValues).reshape(2, 2)
+    print(decrypt(text, key))

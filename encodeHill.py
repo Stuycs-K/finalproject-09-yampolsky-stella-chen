@@ -1,4 +1,5 @@
 import numpy as np
+import sys
 
 def textToNums(text):
     return [ord(c) - ord('A') for c in text.upper() if c.isalpha()]
@@ -16,3 +17,9 @@ def encrypt(text, key):
         enc = key @ pair % 26
         result.extend(enc.flatten())
     return numsToText(result)
+
+if __name__ == "__main__":
+    text = sys.argv[1]
+    keyValues = list(map(int, sys.argv[2].split(',')))
+    key = np.array(keyValues).reshape(2, 2)
+    print(encrypt(text, key))
