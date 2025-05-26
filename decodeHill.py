@@ -32,8 +32,4 @@ def decrypt(text, key):
         result.extend(dec.flatten())
     return numsToText(result)
 
-if __name__ == "__main__":
-    key = np.array([[3, 3], [2, 5]])
-    cipher = "ZEBBW"
-    plain = decrypt(cipher, key)
-    print(plain)
+
