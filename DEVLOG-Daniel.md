@@ -16,6 +16,9 @@ Approximately 40 minutes was spend researching the Columnar Transposition cipher
 ### 2025-5-20 - Making Encode Columnar Cipher
 Approximately 40 minutes was spent configuring the makefile and working on the Columnar Transposition Cipher, and ended on how to print out the columns from a 2D array.
 
-### 2025-5-20 - Fixing Encode Columnar Cipher
+### 2025-5-25 - Fixing Encode Columnar Cipher
 Approximately 1 hour was spent figuring out how to do the tranposition part of the columnar cipher. 
+
+### 2025-5-26 - Making Decode Columnar Cipher
+Approximately 1 hour was spent working on decode Columnar. All computer aspects of the cipher should work.
 

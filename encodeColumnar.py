@@ -17,7 +17,7 @@ def column(plaintext, keyword):
                 cipher.append(plaintext[i])
                 i+=1
             else:
-                cipher.append("x")
+                cipher.append(" ")
         ciphertext.append(cipher)
     return ciphertext
 
@@ -31,6 +31,13 @@ def columnPrint(doubleArray):
                 break
         string+="\n"
     print(string)
+    
+def cipherTextPrint(doubleArray):
+    array = []
+    for i in doubleArray:
+        for j in i:
+            array.append(j)
+    print("".join(array))
 
 def swap(doubleArray, keyword):
     cipher = []
@@ -45,7 +52,6 @@ def swap(doubleArray, keyword):
     return cipher
 
 if __name__ == "__main__":
-    columnPrint(column(sys.argv[1], sys.argv[2]))
-    print("\n")
     columnPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
+    cipherTextPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
 
