@@ -26,12 +26,17 @@ def decrypt(text, key):
     if invKey is None:
         return ""
     nums = textToNums(text)
+    if len(nums) % 2 != 0:
+        nums.append(0)
     result = []
     for i in range(0, len(nums), 2):
         pair = np.array(nums[i:i+2]).reshape(2, 1)
         dec = invKey @ pair % 26
         result.extend(dec.flatten())
-    return numsToText(result)
+    output = numsToText(result)
+    return output.rstrip('A')  # Remove potential padding
+
+
 
 if __name__ == "__main__":
     text = sys.argv[1]
