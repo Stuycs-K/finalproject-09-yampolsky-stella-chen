@@ -11,7 +11,9 @@ This project explains what the Hill Cipher and Columnar Transposition Cipher is,
   
 ### Instructions:
 
-The user uses the makefile and make compiler to compile this program. For the Column encode, the parameters are (plaintext, keyword, printstyle) while for the Column decode, the parameters are (ciphertext, keyword). The plaintext is the text the user wants to encode. The keyword is the keyword that will help with encoding and decoding. The ciphertext is the encoded text. Printstyle is for encode only, where the user can either print the ciphertext in a column or in a linear text. The column text is better used to visualize how the transposition columnar cipher swaps everything while the linear text style is best if the user wants to decode a ciphertext.  For the Hill encode, [INPUT STUFF HERE] while for the Hill decode, [INPUT STUFF HERE].
+The user uses the makefile and make compiler to compile this program. For the Column encode, the parameters are (plaintext, keyword, printstyle) while for the Column decode, the parameters are (ciphertext, keyword). The plaintext is the text the user wants to encode. The keyword is the keyword that will help with encoding and decoding. The ciphertext is the encoded text. Printstyle is for encode only, where the user can either print the ciphertext in a column or in a linear text. The column text is better used to visualize how the transposition columnar cipher swaps everything while the linear text style is best if the user wants to decode a ciphertext.  
+</br>
+For the Hill encode, [INPUT STUFF HERE] while for the Hill decode, [INPUT STUFF HERE].
 
 
 ### Resources/ References:
