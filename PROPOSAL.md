@@ -14,8 +14,7 @@ This project will allow people to automatically encode and decode plaintext and 
   
 # Technical Details:
      
-Stella will be doing the Hill Cipher. Daniel will do the Columnar cipher. We will do a code demo and a demo without a computer. Since these topics were not covered in class, we won't be using topics such as enumeration or privilege escalation. 
-We will be including a decode and encode for both ciphers.   
+Stella will be doing the Hill Cipher. Daniel will do the Columnar cipher. We will do a code demo and a demo without a computer. We will be including a decode and encode for both ciphers.   
     
 # Intended pacing:
 
