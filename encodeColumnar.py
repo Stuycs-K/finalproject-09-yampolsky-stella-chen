@@ -29,7 +29,8 @@ def columnPrint(doubleArray):
                 string += doubleArray[i][j]
             else:
                 break
-        string+="\n"
+        if i != len(doubleArray)-1:
+            string+="\n"
     print(string)
     
 def cipherTextPrint(doubleArray):
@@ -52,6 +53,8 @@ def swap(doubleArray, keyword):
     return cipher
 
 if __name__ == "__main__":
-    columnPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
-    cipherTextPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
+    if (sys.argv[3] == "column" or sys.argv[3] == "Column"):
+        columnPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
+    elif (sys.argv[3] == "linear" or sys.argv[3] == "Linear"):
+        cipherTextPrint(swap(column(sys.argv[1], sys.argv[2]), sys.argv[2]))
 
