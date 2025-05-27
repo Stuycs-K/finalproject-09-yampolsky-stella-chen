@@ -11,10 +11,10 @@ This project explains what the Hill Cipher and Columnar Transposition Cipher is,
   
 ### Instructions:
 
-How does the user install/compile/run the program. (CHANGE THIS!!!!!)
+The user uses the makefile and make compiler to compile this program. For the Column encode, the parameters are (plaintext, keyword) while for the Column decode, the parameters are (ciphertext, keyword). For the Hill encode
 How does the user interact with this program? (CHANGE THIS!!!!!)
 
 ### Resources/ References:
 
-Transposition cipher Wikipedia: [Transposition Cipher](https://en.wikipedia.org/wiki/Transposition_cipher)
+Transposition cipher Wikipedia: [Transposition Cipher](https://en.wikipedia.org/wiki/Transposition_cipher)</br>
 The Columnar Transposition Cipher Video: [The Columnar Transposition Cipher Explained and Broken](https://www.youtube.com/watch?v=FM50lnSC51c)
