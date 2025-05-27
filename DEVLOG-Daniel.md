@@ -22,3 +22,5 @@ Approximately 1 hour was spent figuring out how to do the tranposition part of t
 ### 2025-5-26 - Making Decode Columnar Cipher
 Approximately 1 hour was spent working on decode Columnar. All computer aspects of the cipher should work.
 
+### 2025-5-27 - Doing some housechores
+Approximately 30 minutes was spent working on fixing the .md files and working on makeEncode arguments.
