@@ -48,8 +48,10 @@ def swap(doubleArray, keyword):
         cipher.append([])
     for i in keywordSorted:
         index = keyword.index(i)
+        keyword = keyword[:index]+keyword[index+1:]
         for j in range(0, len(doubleArray)):
             cipher[j].append(doubleArray[j][index])
+            doubleArray[j].pop(index)
     return cipher
 
 if __name__ == "__main__":
