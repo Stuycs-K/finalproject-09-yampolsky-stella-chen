@@ -24,3 +24,6 @@ Approximately 1 hour was spent working on decode Columnar. All computer aspects 
 
 ### 2025-5-27 - Doing some housechores
 Approximately 30 minutes was spent working on fixing the .md files and working on makeEncode arguments.
+
+### 2025-5-28 - Fixing Encode Part II
+Approximately 30 minutes was spent fixing some undiscovered (but now discovered) issues with encodeColumnar.py. The coding should actually be good to go.
