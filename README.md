@@ -19,4 +19,5 @@ For the Hill encode, [INPUT STUFF HERE] while for the Hill decode, [INPUT STUFF 
 ### Resources/ References:
 
 Transposition cipher Wikipedia: [Transposition Cipher](https://en.wikipedia.org/wiki/Transposition_cipher)</br>
-The Columnar Transposition Cipher Video: [The Columnar Transposition Cipher Explained and Broken](https://www.youtube.com/watch?v=FM50lnSC51c)
+The Columnar Transposition Cipher Video: [The Columnar Transposition Cipher Explained and Broken](https://www.youtube.com/watch?v=FM50lnSC51c)</br>
+Hill Cipher Matrix Tutorial: [Hill Cipher](https://massey.limfinity.com/207/hillcipher.pdf)
