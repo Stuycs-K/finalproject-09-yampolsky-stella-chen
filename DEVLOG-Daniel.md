@@ -30,3 +30,6 @@ Approximately 30 minutes was spent fixing some undiscovered (but now discovered)
 
 ### 2025-5-29 - Working on Presentation
 Approximately 30 minutes was spent fixing the presentation. 
+
+### 2025-5-30 - Working on Presentation Part II
+Approximately 20 minutes was spent fixing the presentation and doing housework for this project.
