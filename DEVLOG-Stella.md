@@ -17,7 +17,17 @@ attempt to teach self matrix math, get notes from Julian
 more math learning
 21 math
 
-### 2025 22 slides
-slides
+### 2025-5-22 slides
+Worked on slides
 
-23 more slides and inverse notes for demo
+### 2025-5-23 
+more slides and inverse notes for demo
+
+### 2024-5-24
+Did supplemental research on inverse matrices
+
+### 2025-5-26
+Wrote encodeHill and decodeHill
+
+### 2025-5-27
+Continued to work on writing out the methods for the slideshow

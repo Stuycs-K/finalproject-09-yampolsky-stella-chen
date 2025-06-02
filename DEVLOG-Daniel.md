@@ -22,3 +22,17 @@ Approximately 1 hour was spent figuring out how to do the tranposition part of t
 ### 2025-5-26 - Making Decode Columnar Cipher
 Approximately 1 hour was spent working on decode Columnar. All computer aspects of the cipher should work.
 
+### 2025-5-27 - Doing some housechores
+Approximately 30 minutes was spent working on fixing the .md files and working on makeEncode arguments.
+
+### 2025-5-28 - Fixing Encode Part II
+Approximately 30 minutes was spent fixing some undiscovered (but now discovered) issues with encodeColumnar.py. The coding should actually be good to go.
+
+### 2025-5-29 - Working on Presentation
+Approximately 30 minutes was spent fixing the presentation. 
+
+### 2025-5-30 - Working on Presentation Part II
+Approximately 20 minutes was spent fixing the presentation and doing housework for this project.
+
+### 2025-6-2 - Final Edits
+Approximately 30 minutes was spent fixing decode because an error popped up, making sure readMD files were readable, and other housework to make sure the project is submittable.
