@@ -33,3 +33,6 @@ Approximately 30 minutes was spent fixing the presentation.
 
 ### 2025-5-30 - Working on Presentation Part II
 Approximately 20 minutes was spent fixing the presentation and doing housework for this project.
+
+### 2025-6-2 - Final Edits
+Approximately 30 minutes was spent fixing decode because an error popped up, making sure readMD files were readable, and other housework to make sure the project is submittable.
