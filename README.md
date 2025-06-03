@@ -20,7 +20,9 @@ make encodeColumnar ARGS="'I have this sentence.' humor lienar"
 make decodeColumnar ARGS="'Iavehtisshetennc   e' humor"
 ```
 
-For the Hill encode, [INPUT STUFF HERE] while for the Hill decode, [INPUT STUFF HERE].
+For the Hill encode, 
+make encodeHill ARGS=" Message, test"
+while for the Hill decode, [INPUT STUFF HERE].
 
 
 ### Resources/ References:
