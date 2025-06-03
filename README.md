@@ -16,7 +16,7 @@ The user uses the makefile and make compiler to compile this program. For the Co
 Here are example makefile command arguments for the Columnar Transposition Cipher:
 ```
 make encodeColumnar ARGS="'I have this sentence.' humor column"
-make encodeColumnar ARGS="'I have this sentence.' humor lienar"
+make encodeColumnar ARGS="'I have this sentence.' humor linear"
 make decodeColumnar ARGS="'Iavehtisshetennc   e' humor"
 ```
 For Hill: 
