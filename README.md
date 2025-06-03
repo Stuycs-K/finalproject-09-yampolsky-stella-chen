@@ -19,10 +19,12 @@ make encodeColumnar ARGS="'I have this sentence.' humor column"
 make encodeColumnar ARGS="'I have this sentence.' humor lienar"
 make decodeColumnar ARGS="'Iavehtisshetennc   e' humor"
 ```
-
-For the Hill encode, 
-make encodeHill ARGS=" Message, test"
-while for the Hill decode, [INPUT STUFF HERE].
+For Hill: 
+```
+make encodeHill ARGS="Message test"
+make decodeHill ARGS=",SXCN9RM TEST"
+```
+The key must be four characters long, the message and key are not case sensitive as everything is converted to uppercase.
 
 
 ### Resources/ References:
