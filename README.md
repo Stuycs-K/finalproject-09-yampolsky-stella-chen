@@ -28,12 +28,11 @@ The key must be four characters long, the message and key are not case sensitive
 
 
 ### Resources/ References:
-
-Transposition cipher Wikipedia: [Transposition Cipher](https://en.wikipedia.org/wiki/Transposition_cipher)</br>
-The Columnar Transposition Cipher Video: [The Columnar Transposition Cipher Explained and Broken](https://www.youtube.com/watch?v=FM50lnSC51c)</br>
-Advantages and Disadvantages of Transposition Columnar Cipher: [Hill Cipher](https://prezi.com/tzjqqlhkkvxf/columnar-transposition/)</br>
-Columnar Cipher Decoder: [Columnar Cipher Decoder](https://www.dcode.fr/columnar-transposition-cipher)</br>
-Hill Cipher Matrix Tutorial: [Hill Cipher](https://massey.limfinity.com/207/hillcipher.pdf)</br>
-Hill Cipher Wikipedia: [Wikipedia](https://en.wikipedia.org/wiki/Hill_cipher)</br>
-Hill Cipher Encoder and Decoder Website: [Hill Cipher Website](https://massey.limfinity.com/207/hillcipher.php)
+* Transposition cipher Wikipedia: [Transposition Cipher](https://en.wikipedia.org/wiki/Transposition_cipher)</br>
+* The Columnar Transposition Cipher Video: [The Columnar Transposition Cipher Explained and Broken](https://www.youtube.com/watch?v=FM50lnSC51c)</br>
+* Advantages and Disadvantages of Transposition Columnar Cipher: [Hill Cipher](https://prezi.com/tzjqqlhkkvxf/columnar-transposition/)</br>
+* Columnar Cipher Decoder: [Columnar Cipher Decoder](https://www.dcode.fr/columnar-transposition-cipher)</br>
+* Hill Cipher Matrix Tutorial: [Hill Cipher](https://massey.limfinity.com/207/hillcipher.pdf)</br>
+* Hill Cipher Wikipedia: [Wikipedia](https://en.wikipedia.org/wiki/Hill_cipher)</br>
+* Hill Cipher Encoder and Decoder Website: [Hill Cipher Website](https://massey.limfinity.com/207/hillcipher.php)
 * Julien and Jakob aided with linear algebra topics like matrices
