@@ -12,7 +12,7 @@ def decode(ciphertext, keyword):
     a = 0
     i = 0
     while i < len(ciphertext):
-        for j in range(0, math.floor(len(ciphertext)/len(keyword))):
+        for j in range(len(keyword)):
             cipher[a].append(ciphertext[i])
             i+=1
         a+=1
