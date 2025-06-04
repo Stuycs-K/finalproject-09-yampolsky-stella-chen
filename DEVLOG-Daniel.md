@@ -36,3 +36,6 @@ Approximately 20 minutes was spent fixing the presentation and doing housework f
 
 ### 2025-6-2 - Final Edits
 Approximately 30 minutes was spent fixing decode because an error popped up, making sure readMD files were readable, and other housework to make sure the project is submittable.
+
+### 2025-6-3 Film video
+Approximately 1 hour was spent running through and retaking the video, as well as figuring out zoom's video settings
